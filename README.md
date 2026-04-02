@@ -98,6 +98,43 @@ My goal is to become a **Data Engineer**, focusing on building scalable data sys
 
 ---
 
+## 📂 Featured Projects
+
+### 🐾 Animal Shelter - Outcome Classification
+
+🔗 Team project (Bootcamp collaboration)  
+📍 Developed as part of the AI Bootcamp at Factoría F5  
+
+- 📌 Role: Data preprocessing & model training  
+- 🧠 Techniques: Classification (Scikit-learn)  
+- 🛠️ Tools: Python, Pandas  
+- 💡 Description: Built a machine learning model to predict the final outcome of animals in shelters using real-world data.
+
+---
+
+### 📊 Animal Bites - Exploratory Data Analysis (EDA)
+
+🔗 Team project (Bootcamp collaboration)  
+📍 Developed as part of the AI Bootcamp at Factoría F5  
+
+- 📌 Role: Data cleaning & visualization  
+- 🛠️ Tools: Pandas, Seaborn, Matplotlib, Plotly  
+- 💡 Description: Performed data cleaning, preprocessing, and exploratory analysis to uncover patterns and insights from animal bite datasets.
+
+---
+
+### 🐶 PetAdopt Predictor
+
+🔗 Team project (Bootcamp collaboration)  
+📍 Developed as part of the AI Bootcamp at Factoría F5  
+
+- 📌 Role: Feature engineering & regression modeling  
+- 🧠 Techniques: Regression  
+- 🛠️ Tools: Python, Pandas, Scikit-learn  
+- 💡 Description: Developed a machine learning pipeline to predict how long an animal stays in a shelter before being adopted.
+
+---
+
 ## 📫 Contact
 
 - LinkedIn: https://www.linkedin.com/in/raulmachaca/
