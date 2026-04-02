@@ -100,6 +100,19 @@ My goal is to become a **Data Engineer**, focusing on building scalable data sys
 
 ## 📂 Featured Projects
 
+
+### 🧠 Multiclass Waste Classification System
+
+🔗 Team project (Bootcamp collaboration)  
+📍 Developed as part of the AI Bootcamp at Factoría F5  
+
+- 📌 Role: Deep Learning model development & evaluation  
+- 🧠 Techniques: Image Classification (Deep Learning)  
+- 🛠️ Tools: TensorFlow / Keras  
+- 💡 Description: Built a multiclass waste classification system capable of identifying the correct recycling bin from images. Achieved ~93% accuracy across 7 categories using multiple deep learning models.
+
+---
+
 ### 🐾 Animal Shelter - Outcome Classification
 
 🔗 Team project (Bootcamp collaboration)  
